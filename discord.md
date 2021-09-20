@@ -5,6 +5,6 @@ sub_heading: ''
 description: Discord
 ---
 
-<script>location = "https://ite.berkeley.edu/discord"</script>
+<script>location = "https://e.widgetbot.io/channels/838296959835963404/838296960280297484"</script>
 
-<a href="https://ite.berkeley.edu/discord">Click here if you aren't redirected</a>
+<a href="https://e.widgetbot.io/channels/838296959835963404/838296960280297484">Click here if you aren't redirected</a>

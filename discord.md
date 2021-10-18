@@ -5,6 +5,6 @@ sub_heading: ''
 description: Discord
 ---
 
-<script>location = "https://e.widgetbot.io/channels/838296959835963404/838296960280297484"</script>
+<script>location = "https://discord.gg/Jd2Zyv3wgy"</script>
 
-<a href="https://e.widgetbot.io/channels/838296959835963404/838296960280297484">Click here if you aren't redirected</a>
+<a href="https://discord.gg/Jd2Zyv3wgy">Click here if you aren't redirected</a>

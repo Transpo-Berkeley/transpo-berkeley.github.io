@@ -34,8 +34,8 @@ services:
 sub_heading: ''
 textline: Transportation Team at Berkeley
 hero_button:
-  text: Interest Form >
-  href: '#interested'
+  text: Join our Discord >
+  href: '/discord'
 show_news: false
 show_staff: false
 

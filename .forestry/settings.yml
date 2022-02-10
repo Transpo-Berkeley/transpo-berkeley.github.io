@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: index
+  path: index.md
   label: Home
 - type: document
-  path: about
+  path: about.md
   label: About
 - type: jekyll-pages
   label: Pages

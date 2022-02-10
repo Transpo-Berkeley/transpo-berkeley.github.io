@@ -12,6 +12,10 @@ sections:
 - type: document
   path: about.md
   label: About
+- type: document
+  path: contact.md
+  label: Contact
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all

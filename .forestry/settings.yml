@@ -21,11 +21,6 @@ sections:
   templates:
   - landing-page
   - page
-- type: heading
-  label: Contact
-- type: document
-  path: _data/information.yml
-  label: Information
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

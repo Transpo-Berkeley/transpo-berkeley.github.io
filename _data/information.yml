@@ -1,12 +1,9 @@
 ---
-# phone: ""
-# email: ""
 address_1: Davis Hall
 address_2: 'University of California, Berkeley'
 city: Berkeley
 state: CA
 postal_code: 94720
 country: US
-# twitter: 
 
 # Edit the email in /_includes/address.html

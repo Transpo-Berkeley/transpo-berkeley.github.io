@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: pages/index-md
+  path: index-md
   label: Home
 - type: document
-  path: pages/about-md
+  path: about-md
   label: About
 - type: heading
   label: Content

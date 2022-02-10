@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: _data/information.yml
+  label: Contact Info
+  match: "**/*"
 - type: heading
   label: Content
 - type: document
@@ -12,16 +16,18 @@ sections:
 - type: document
   path: about.md
   label: About
-- type: document
-  path: contact.md
-  label: Contact
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
   templates:
   - landing-page
   - page
+- type: heading
+  label: Contact
+- type: document
+  path: contact.md
+  label: Contact
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

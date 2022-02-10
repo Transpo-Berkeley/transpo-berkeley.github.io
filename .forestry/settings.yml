@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/information.yml
-  label: Contact Info
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
@@ -27,6 +23,10 @@ sections:
 - type: document
   path: contact.md
   label: Contact
+  match: "**/*"
+- type: document
+  path: _data/information.yml
+  label: Information
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"

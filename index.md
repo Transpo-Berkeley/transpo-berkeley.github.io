@@ -37,7 +37,15 @@ show_staff: false
 partners: []
 
 ---
-[Learn more about us >](/about){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+<div class="text-center" markdown="1">
+
+[Learn more about us >](/about){:.pure-button .button-xlarge target="blank" rel="noopener"}
+
+</div>
+
+<br>
+
+<hr style="width:50%;margin:0 auto;" />
 
 <br>
 

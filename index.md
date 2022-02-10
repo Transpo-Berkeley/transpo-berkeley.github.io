@@ -39,7 +39,7 @@ partners: []
 ---
 <div class="text-center" markdown="1">
 
-[Learn more about us >](/about){:.pure-button .button-xlarge target="blank" rel="noopener"}
+[Learn more about us >](/about){:.pure-button .button-xlarge}
 
 </div>
 

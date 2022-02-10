@@ -3,10 +3,6 @@ title: Home
 banner_image: "/uploads/2021/08/04/cedric-letsch-rrcgunuc-fu-unsplash.jpg"
 layout: landing-page
 heading: Transportation Team at Berkeley
-partners:
-- "/uploads/2021/08/04/uc-logo-sm.png"
-- "/uploads/2021/08/09/asuc_2color_lightbackground-1-768x960.png"
-- "/uploads/2021/08/09/esc.jpg"
 services:
 - heading: Planning
   description: The modeling and analysis of travel demand patterns based on land use
@@ -32,51 +28,36 @@ services:
     as large-scale traffic data analysis, geospatial data analysis, and socio-economic
     data analysis.
 sub_heading: ''
-textline: Transportation Team at Berkeley
+textline: 'Transportation Team at Berkeley'
 hero_button:
-  text: Join our Discord >
-  href: '/discord'
+  text: "Join our Team >"
+  href: "#join"
 show_news: false
 show_staff: false
 
 ---
-# Join Us
 
-Our team welcomes all interested students! We welcome more than just civil engineers; our current team consists of members from a variety of other disciplines.
+<!-- These are short-links (transpo.berkeley.edu/#join) -->
+<div id="interested"></div>
+<div id="join"></div>
+<div id="join-us"></div>
 
-### 📚 Learn New Skills
+<div class="text-center" markdown="1">
 
-Designers on the team work together in AutoCAD, a vital software used in engineering but not taught by many classes. Team members who work in operations learn how to use Synchro and Vissim to model traffic conditions, just like consultants in the field. Cal Transportation Team allows its members to get hands-on experience with professional software through in-class workshops.
+# Join us!
 
-### 💼 Industry Connections and Resources
+### 📬 Step 1: Add our class
 
-Joining Cal Transportation team provides valuable connections within the transportation industry. Our current advisors work in prestigious research institutes, innovative agencies, and private firms. These connections and the work experience provided by the project make our students competitive candidates for internships and entry level positions.
+[See classes.berkeley.edu >](https://classes.berkeley.edu/search/class/%22Transportation%20Competition%20Team%22?retain-filters=1){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 
-<div class="grid grid-cols-2 gap-2 pt-8">
-  <img src="/uploads/2021/08/04/IMG_6042.jpg" alt="Transportation Team presenter in front of blackboard, giving a presentation on traffic signals" />
-  <img src="/uploads/2021/08/04/DSC_0761.jpg" alt="Transportation Team at Berkeley, giving a presentation in front of transit professionals during a competition with other universities" />
+### ✍ Step 2: Let us know who you are!
+
+[Fill out our Google Form >](https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+
+### 🤝 Step 3: Connect with us!
+
+[Join our Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+
 </div>
 
-<br>
-
-# Interested?
-
-**Fall 2021**  
-CE 98, Section 007; 28264  
-CE 198, Section 007; 28258  
-2 Units  
-Meetings: M 5-7 pm: DAVIS 534
-
-### Fill out our interest form below!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform" title="Google Form, Cal ITE x Transpo Interest Form" class="w-full border-none" style="height:80vh;">
-  Your browser is blocking this form... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform">Fill out the interest form here ></a>
-</iframe>
-
-<br>
-
-### Social Media
-
-Connect with us on our Discord:
-
-[Join Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge}
+<br />

@@ -28,14 +28,18 @@ services:
     as large-scale traffic data analysis, geospatial data analysis, and socio-economic
     data analysis.
 sub_heading: ''
-textline: 'Transportation Team at Berkeley'
+textline: Transportation Team at Berkeley
 hero_button:
-  text: "Join our Team >"
+  text: Join our Team >
   href: "#join"
 show_news: false
 show_staff: false
+partners: []
 
 ---
+[Learn more about us >](/about){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+
+<br>
 
 <!-- These are short-links (transpo.berkeley.edu/#join) -->
 <div id="interested"></div>

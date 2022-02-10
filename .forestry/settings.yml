@@ -12,6 +12,9 @@ sections:
 - type: document
   path: about.md
   label: About
+- type: document
+  path: contact.md
+  label: Contact
 - type: jekyll-pages
   label: Pages
   create: all
@@ -21,13 +24,8 @@ sections:
 - type: heading
   label: Contact
 - type: document
-  path: contact.md
-  label: Contact
-  match: "**/*"
-- type: document
   path: _data/information.yml
   label: Information
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

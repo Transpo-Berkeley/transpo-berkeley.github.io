@@ -58,7 +58,7 @@ partners: []
 
 # Join us!
 
-### 📬 Step 1: Add our class
+### 📬 Step 1: Add our class (optional) 
 
 [See classes.berkeley.edu >](https://classes.berkeley.edu/search/class/%22Transportation%20Competition%20Team%22?retain-filters=1){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 

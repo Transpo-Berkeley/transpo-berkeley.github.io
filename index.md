@@ -58,13 +58,13 @@ partners: []
 
 # Join us!
 
-### 📬 Step 1: Add our class (optional) 
+### 💬 Step 1: Let us know who you are!
+
+[Fill out our Interest Form >](https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+
+### 📬 Step 2: Add our class (optional) 
 
 [See classes.berkeley.edu >](https://classes.berkeley.edu/search/class/%22Transportation%20Competition%20Team%22?retain-filters=1){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
-
-### 💬 Step 2: Let us know who you are!
-
-[Fill out our Google Form >](https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 
 ### 🤝 Step 3: Connect with us!
 

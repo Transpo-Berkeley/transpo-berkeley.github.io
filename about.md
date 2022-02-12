@@ -5,7 +5,7 @@ banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: About Transportation Team at Berkeley
 sub_heading: Since 2016
 layout: landing-page
-textline: Transportation is love. Transportation is life. Welcome to the Cal Transportation Team where we will learn how to improve the world's transportation systems together!
+textline: "Cal Transportation Team was founded in 2016. We compete in the ASCE Mid-Pacific Transportation competition, planning and designing a solution to a given prompt. The team has many members from different backgrounds working on planning, operations, and design of transportation systems."
 publish_date: 2021-08-23 00:00:00 +0000
 partners:
 - "/uploads/2021/08/04/uc-logo-sm.png"
@@ -21,7 +21,9 @@ menu:
     weight: 3
 ---
 
-Cal Transportation Team was founded in 2016. We compete in the ASCE Mid-Pacific Transportation competition, planning and designing a solution to a given prompt. The team has many members from different backgrounds working on planning, operations, and design of transportation systems. The team also runs a DeCal class so students can get academic credit for their work.
+Our team welcomes all interested students! We welcome more than just civil engineers; our current team consists of members from a variety of other disciplines.
+
+The team also runs a DeCal class so students can get academic credit for their work.
 
 <br>
 
@@ -29,7 +31,7 @@ Cal Transportation Team was founded in 2016. We compete in the ASCE Mid-Pacific 
 
 <br>
 
-Our team welcomes all interested students! We welcome more than just civil engineers; our current team consists of members from a variety of other disciplines.
+# About Us
 
 ### 📚 Learn New Skills
 
@@ -46,6 +48,10 @@ Joining Cal Transportation team provides valuable connections within the transpo
 
 <br>
 
-## Team Members
+# Our Team
 
-[See our team members on CalLink](https://callink.berkeley.edu/organization/transpo/){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+Our team works closely with Cal ITE to bring professional opportunities to Transpo.
+
+[ITE at Berkeley - Team Members](https://ite.berkeley.edu/team){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+
+[Transpo members on CalLink](https://callink.berkeley.edu/organization/transpo/){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}

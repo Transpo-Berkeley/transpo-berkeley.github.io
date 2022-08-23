@@ -6,19 +6,10 @@ show_staff: false
 
 ---
 
-# How to edit
+# WordPress Login
 
-The source code for the site is at <https://github.com/Transpo-Berkeley>.
+This site is no longer based in WordPress. If you're a bot, hi :)
 
-Step 1 is to ask someone to add you to the Transpo-Berkeley GitHub organization.
-
-Then, you can edit the site using Forestry at <https://forestry.io>.
-
-Login using GitHub (create an account if you haven't yet), and then add transpo-berkeley.github.io to Forestry
-
-You are now free to make any changes!
-
-All changes will be synced to <https://transpo.berkeley.edu> via [an automated process :)](https://github.com/Transpo-Berkeley/transpo-berkeley.github.io/blob/master/.github/workflows/main.yml)
 
 # About the Site
 

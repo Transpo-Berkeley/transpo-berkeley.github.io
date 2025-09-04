@@ -27,7 +27,7 @@ The team also runs a DeCal class so students can get academic credit for their w
 
 <br>
 
-[See our DeCal >](https://classes.berkeley.edu/search/class/%22Transportation%20Competition%20Team%22?retain-filters=1){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+[See our DeCal >](https://classes.berkeley.edu/content/2025-fall-civeng-98-009-grp-009){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 
 <br>
 

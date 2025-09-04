@@ -68,7 +68,7 @@ partners: []
 
 ### 🤝 Step 3: Connect with us!
 
-[Join our Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+[Join our Discord >]](https://discord.gg/jyzrp7Ha44){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 
 </div>
 

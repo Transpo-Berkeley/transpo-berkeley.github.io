@@ -60,15 +60,15 @@ partners: []
 
 ### 💬 Step 1: Let us know who you are!
 
-[Fill out our Interest Form >](https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+[Fill out our Interest Form >](https://docs.google.com/forms/u/2/d/e/1FAIpQLSc6YlQQVWXVBnONA69gzyiJsl07GmhW5oM4gEGbh4LrxnHCFQ/viewform){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 
 ### 📬 Step 2: Add our class (optional) 
 
-[See classes.berkeley.edu >](https://classes.berkeley.edu/search/class/%22Transportation%20Competition%20Team%22?retain-filters=1){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+[See classes.berkeley.edu >](https://classes.berkeley.edu/content/2025-fall-civeng-98-009-grp-009){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 
 ### 🤝 Step 3: Connect with us!
 
-[Join our Discord >]](https://discord.gg/jyzrp7Ha44){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
+[Join our Discord >](https://discord.gg/jyzrp7Ha44){:.pure-button .button-success .button-xlarge target="blank" rel="noopener"}
 
 </div>
 
